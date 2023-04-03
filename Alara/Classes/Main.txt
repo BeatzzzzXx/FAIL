@@ -1,0 +1,74 @@
+MAIN:
+\- Warrior - They are the frontline class, and they are the strongest and toughest class.
+Sure thing, here are the 4 main subclasses of Erath:
+
+sub:
+\- Barbarian - They are the wild and unpredictable class, and they often resort to violence first and ask questions later.
+
+\- Fighter - They are the masters of battle, and they can fight with any weapon. They have trained for years to perfect their art, and they will not rest until they have defeated their enemies.
+
+\- Berserker - They are the most brutal and savage warriors on Erath - and they will not hesitate to destroy anything that gets in their way.
+
+
+MAIN:
+\- Mage - They are the casters of spells, and they have great power that must be carefully controlled.
+
+sub:
+\- Wizard - They are the masters of magic, and they can weave spells that can change the tide of battle in an instant.
+
+\- Warlock - They are the masters of ancient magic, and they do not rely on gods to cast spells. Their power comes from a pact with an ancient creature from beyond the veil - and that pact comes with a heavy price.
+
+\- Sorcerer - They are the most powerful mages on Erath, and they can cast spells with just a thought. But in order to use their power they must sacrifice something valuable - and that sacrifice can cost them their very lives.
+
+
+MAIN:
+\- Thief - They are the sneaky, fast class - and they are always looking for a way to get ahead.
+
+sub:
+\- Rogue - They are the master of stealth and trickery, and they will not hesitate to take advantage of an opportunity to gain an advantage.
+
+\- Assassin - They are the masters of stealth and espionage - and they can kill someone without anyone ever knowing they were even there.
+
+\- Spy - They are the masters of infiltration and deception - and they will use anything they can to get the upper hand on their opponents.
+
+\- Sniper - They are the masters of target acquisition - and they can take out a target from a thousand yards away.
+
+
+MAIN:
+\- Cleric - They are the healers of Erath, and they can change the tide of a battle with just a single spell.
+
+sub:
+\- Priest - They are the healers of Erath - and they can do incredible things with just their faith in their gods.
+
+\- White Mage - They are the masters of healing and protection - and they are the ones who keep the party alive in the heat of battle.
+
+\- Necromancer - They are the masters of the undead, and they can raise an army of zombies with just a word.
+
+\- Druid - They are the masters of nature - and they can call upon the forces of nature to help them kill anyone that gets in their way.
+
+SECRET:
+ -Monk - They are the masters of hand-to-hand combat, and they can use their bodies as weapons.
+
+
+- Witch - They are the masters of the supernatural and the occult, and they can summon demons to do their bidding.
+
+
+- Bard - They are the masters of music, and their songs can heal wounds or create carnage depending on which melody they choose to play.
+
+- Samurai - They are the masters of the blade, and their skill with a sword is unmatched.
+
+- Ninja - They are the masters of stealth and assassination - and they can take out any target without ever being seen.
+
+- Templar - They are the masters of the holy and the divine - and they can call upon the powers of gods to destroy anyone that stands in their way!
+
+- Paladin - They are the masters of holy and divine magic - and they can use their divine powers to smite any enemies that stand between the good and the evil.
+
+- Vampire - They are the masters of the dark and supernatural - and they can drain the blood of the living to gain incredible power.
+
+- Dragon - They are the masters of the ancient and arcane - and they can transform into a powerful dragon to wreak havoc upon their enemies!
+
+- Demon - They are the masters of the dark and arcane - and they can shapeshift into a monster that can tear apart anything in its path.
+
+- Shaman - They are the masters of the supernatural and the eldritch - and they can channel the powers of nature to destroy anyone who threatens the natural order.
+
+- Lich - They are the masters of death and the undead - and they can summon an army of the walking dead to destroy their enemies!
